@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="Coding" width="500" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+<img align="right" alt="Coding" width="500" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=790b7611dwna41e3ei6slb9bsd739jz47xyjtviwnp75matw&ep=v1_gifs_search&rid=200.webp&ct=g">
 <br>
 
 <h3 align="left">Languages in My Public Repositories:</h3>
