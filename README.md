@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jose Andres</h1>
 
 <p align="center">
-    <img alt="Coding" width="500" src="https://img.freepik.com/fotos-premium/lindo-hacker-que-opera-computadora-portatil-ilustracion-icono-vectorial-dibujos-animados-personas-icono-tecnologia-plano-aislado_1010572-5921.jpg">
+   <img alt="Coding" src="https://img.freepik.com/fotos-premium/lindo-hacker-que-opera-computadora-portatil-ilustracion-icono-vectorial-dibujos-animados-personas-icono-tecnologia-plano-aislado_1010572-5921.jpg" style="width: 100%; height: auto;">
+
 </p>
 
 <br>
-
-<h3 align="center">🌱 I’m currently learning **WEB Development Full-Stack**</h3>
 
 <hr>
 
