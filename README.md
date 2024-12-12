@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Andres</h1>
 
 <p align="center">
-    <img alt="Coding" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejN2aW44dzhvNXd6eWJkYWMwdW1nbGV5OWxiZ2tkcDB4YXZyZ2pzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
+    <img alt="Coding" width="500" src="https://img.freepik.com/vector-premium/hacker-dibujos-animados-vectoriales-mal-aspecto-computadora_585140-2734.jpg">
 </p>
 
 <br>
