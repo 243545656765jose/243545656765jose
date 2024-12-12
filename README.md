@@ -19,7 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=243545656765jose&show_icons=true&theme=radical&locale=en&hide=prs&count_private=true" alt="243545656765jose" />
 </p>
 
-<hr width="60%" >
+<hr width="100%" >
 
 <h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
