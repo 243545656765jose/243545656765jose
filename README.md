@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<hr width="60%" >
+<hr width="100%" >
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=243545656765jose&label=Profile%20views&color=0e75b6&style=flat" alt="243545656765jose" />
