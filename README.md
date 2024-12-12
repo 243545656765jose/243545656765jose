@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Andres</h1>
 
 <p align="center">
-    <img alt="Coding" width="500" src="file:///C:/Users/josea/Downloads/DALL%C2%B7E%202024-12-12%2010.11.06%20-%20An%20animated%20pirate%20cowboy%20programmer%20with%20a%20fun%20and%20cartoonish%20style.%20He%20wears%20a%20cowboy%20hat,%20eye%20patch,%20pirate%20coat,%20and%20rugged%20boots.%20He%20is%20energetic.webp">
+    <img alt="Coding" width="500" src="https://media.tenor.com/tZ2Xd8LqAnMAAAAM/typing-fast.gif">
 </p>
 
 <br>
