@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Andres</h1>
 
 <p align="center">
-    <img alt="Coding" width="500" src="https://media3.giphy.com/media/ko7twHhomhk8E/200.webp?cid=ecf05e47o27i7tnsaezgduprlt6sdwd30fvioyr8sucs2e7v&ep=v1_gifs_search&rid=200.webp&ct=g">
+    <img alt="Coding" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejN2aW44dzhvNXd6eWJkYWMwdW1nbGV5OWxiZ2tkcDB4YXZyZ2pzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
 </p>
 
 <br>
