@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Andres</h1>
 
 <p align="center">
-   <img alt="Coding" src="https://img.freepik.com/fotos-premium/lindo-hacker-que-opera-computadora-portatil-ilustracion-icono-vectorial-dibujos-animados-personas-icono-tecnologia-plano-aislado_1010572-5921.jpg" style="width: 80%; height: 90;">
+   <img alt="Coding" src="https://img.freepik.com/fotos-premium/lindo-hacker-que-opera-computadora-portatil-ilustracion-icono-vectorial-dibujos-animados-personas-icono-tecnologia-plano-aislado_1010572-5921.jpg" style="width: 80%; height: 90px;">
 
 </p>
 
