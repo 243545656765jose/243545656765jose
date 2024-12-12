@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Jose Andres</h1>
 
 <p align="center">
-    <img alt="Coding" width="500" src="https://img.freepik.com/vector-premium/hacker-dibujos-animados-vectoriales-mal-aspecto-computadora_585140-2734.jpg">
+    <img alt="Coding" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejN2aW44dzhvNXd6eWJkYWMwdW1nbGV5OWxiZ2tkcDB4YXZyZ2pzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp">
 </p>
 
 <br>
 
 <h3 align="center">🌱 I’m currently learning **WEB Development Full-Stack**</h3>
 
+<hr>
+
 <h3 align="left">💻 Languages in My Public Repositories:</h3>
 <p align="center">
-    <!-- Dynamic GitHub Stats showing top languages used based on public repositories -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=243545656765jose&show_icons=true&theme=radical&locale=en&layout=compact" alt="243545656765jose" />
 </p>
 
 <h3 align="left">📊 Commits and Activity:</h3>
 <p align="center">
-    <!-- GitHub stats showing total commits made in public repositories -->
     <img src="https://github-readme-stats.vercel.app/api?username=243545656765jose&show_icons=true&theme=radical&locale=en&hide=prs&count_private=true" alt="243545656765jose" />
 </p>
 
@@ -31,6 +31,8 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
     </a>
 </p>
+
+<hr width="40%" >
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=243545656765jose&label=Profile%20views&color=0e75b6&style=flat" alt="243545656765jose" />
