@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Andres</h1>
 
 <p align="center">
-    <img alt="Coding" width="500" src="https://media.tenor.com/tZ2Xd8LqAnMAAAAM/typing-fast.gif">
+    <img alt="Coding" width="500" src="[https://media.tenor.com/tZ2Xd8LqAnMAAAAM/typing-fast.gif](https://media3.giphy.com/media/ko7twHhomhk8E/200.webp?cid=ecf05e47o27i7tnsaezgduprlt6sdwd30fvioyr8sucs2e7v&ep=v1_gifs_search&rid=200.webp&ct=g)">
 </p>
 
 <br>
